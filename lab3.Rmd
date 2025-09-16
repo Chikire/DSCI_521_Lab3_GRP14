@@ -290,7 +290,7 @@ rubric={mechanics:1,reasoning:1}
     GitHub.ubc.ca in your homework repo? What do you see? How is it
     rendered?
 
-YOUR ANSWER GOES HERE
+The file is much more readable in comparison to the html file on github. The code cells, their output and headers are clearly visible.
 
 #### Question 10
 
