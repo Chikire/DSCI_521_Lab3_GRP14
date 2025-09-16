@@ -136,7 +136,14 @@ rubric={mechanics:1,reasoning:1}
 Create a new code chunk that uses a code chunk option. Write out in your
 own words what the code chunk option is doing.
 
-YOUR ANSWER GOES HERE
+```{r echo = FALSE}
+y <- 2.5
+x <- y * 2
+x
+```
+
+ECHO=FALSE was used in the above code chunk. This hides the code chunks
+and only shows us the output.
 
 #### Multiple code chunk options
 
