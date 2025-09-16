@@ -161,6 +161,13 @@ least one must be different to the ones mentioned above. Write in your
 own words what each code chunk option is doing.
 
 YOUR ANSWER GOES HERE
+```{r tidy = TRUE, warning = TRUE}
+new_data = c(3,4, 5, 6) + c(6, 7, 8, 9) + c(4,5,6, 7)
+typeof(new_data)
+```
+"tidy = TRUE": This ensures that the code is properly formatted and makes it easier to read in the rendered outputs.
+
+"warning = TRUE" : We understood that this code chuck option ensures that all warnings in the R code are displayed.  
 
 ### YAML Header and document output options
 
