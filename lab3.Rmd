@@ -276,7 +276,8 @@ rubric={mechanics:6}
     repository for this homework. Paste a link to these files as your
     answer below.
 
-YOUR ANSWER GOES HERE
+HTML Link : https://github.ubc.ca/mds-2025-26/DSCI_521_lab3_group14/blob/master/Vector_methods_in_R.html
+.Rmd Link : https://github.ubc.ca/mds-2025-26/DSCI_521_lab3_group14/blob/master/Vector_methods_in_R.Rmd
 
 #### Question 9 (Optional)
 
