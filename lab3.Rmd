@@ -101,7 +101,10 @@ R code (it does not need to be complicated, but it should have an
 output). Ensure that you can render/knit the document after you add that
 chunk.
 
-YOUR ANSWER GOES HERE
+```{r}
+numbers <- c(1,2,3,4)
+numbers
+```
 
 #### Question 3
 
