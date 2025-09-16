@@ -1,6 +1,6 @@
 ---
 title: "Lab 3 - Introduction to RStudio and R Markdown. Presentations"
-author: Zaki Aslam, Nour Shawky, Chikirie Aku -Ibe, Mailys Gvedon
+author: Zaki Aslam, Nour Shawky, Chikire Aku -Ibe, Mailys Guedon
 date: Sept 21, 2025
 output:
   html_document:
@@ -211,7 +211,7 @@ block.
 
 \`\`\`
 
-author: Zaki Aslam, Nour Shawky, Chikirie Aku -Ibe, Mailys Gvedon
+author: Zaki Aslam, Nour Shawky, Chikire Aku -Ibe, Mailys Guedon
 
 date: Sept 21, 2025
 
