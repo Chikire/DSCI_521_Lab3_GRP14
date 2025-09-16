@@ -1,5 +1,7 @@
 ---
 title: "Lab 3 - Introduction to RStudio and R Markdown. Presentations"
+author: Zaki Aslam, Nour Shawky, Chikirie Aku -Ibe, Mailys Gvedon
+date: Sept 21, 2025
 output:
   html_document:
     toc: true
@@ -200,7 +202,13 @@ so that you include an `author` (yourself) and a `date` (lab due date).
 Include what you added below here as well as a fenced Markdown code
 block.
 
-YOUR ANSWER GOES HERE
+\`\`\`
+
+author: Zaki Aslam, Nour Shawky, Chikirie Aku -Ibe, Mailys Gvedon
+
+date: Sept 21, 2025
+
+\`\`\`
 
 ### Creating R Markdown documents
 
