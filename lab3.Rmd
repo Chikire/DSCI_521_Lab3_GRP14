@@ -1,6 +1,6 @@
 ---
 title: "Lab 3 - Introduction to RStudio and R Markdown. Presentations"
-author: Zaki Aslam, Nour Shawky, Chikirie Aku -Ibe, Mailys Gvedon
+author: Zaki Aslam, Nour Shawky, Chikire Aku -Ibe, Mailys Guedon
 date: Sept 21, 2025
 output:
   html_document:
@@ -218,7 +218,7 @@ block.
 
 \`\`\`
 
-author: Zaki Aslam, Nour Shawky, Chikirie Aku -Ibe, Mailys Gvedon
+author: Zaki Aslam, Nour Shawky, Chikire Aku -Ibe, Mailys Guedon
 
 date: Sept 21, 2025
 
@@ -256,7 +256,10 @@ knit/render the document. Note the different output. Add and commit that
 rendered both the `.html` and `.pdf` files to the GitHub repository for
 this lab and paste the two links below this question.
 
-YOUR ANSWER GOES HERE
+HTML Link: https://github.ubc.ca/mds-2025-26/DSCI_521_lab3_group14/blob/master/lab3-doc2.html
+
+pdf link: https://github.ubc.ca/mds-2025-26/DSCI_521_lab3_group14/blob/master/lab3-doc2.pdf
+
 
 #### Question 8
 
