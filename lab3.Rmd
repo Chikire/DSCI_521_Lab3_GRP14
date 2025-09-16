@@ -112,7 +112,17 @@ Try using the pop-up-like menu to navigate between the named code chunks
 Don't forget to knit/render the document after you make this change to
 ensure everything is still working.
 
-YOUR ANSWER GOES HERE
+```{r simple math equation}
+
+x<- 5
+y<- 4
+
+new_math_equation <- x +y
+
+new_math_equation
+
+
+```
 
 #### Question 4
 
