@@ -1,0 +1,23 @@
+
+
+
+
+
+
+knitr::opts_chunk$set(echo = TRUE)
+
+
+
+
+
+free_point <- TRUE
+
+
+. = ottr::check("tests/free-point-autograde.R")
+
+
+
+
+
+# Save your notebook first, then run this cell to export your submission.
+ottr::export("lab3.Rmd", pdf = TRUE)

@@ -1,0 +1,39 @@
+---
+title: "Presentation For Group 14"
+format:
+  revealjs:
+    embed-resources: true
+---
+
+
+
+# Welcome To Our Presentation!
+Importance Of Functions in R
+
+## Meet The Team
+### Zaki
+### Mailys
+### Noura
+### Chikire
+
+# What is a Function in R Programming?
+
+## Coding Sample 1:
+```{!}
+mpg_to_kml <- function(x){
+  x * 0.425144 
+  }
+mpg_to_kml(1)
+```
+
+## Coding Sample 2:
+```{!}
+add_one <- function(x, y) {
+    x <- x + 1
+    return(x)
+}
+```
+
+# Question And Answer Session
+
+# Thank you for your time!
