@@ -316,6 +316,9 @@ rubric={mechanics:6}
     to publish the slides, as long as the URL works.
 
 YOUR ANSWER GOES HERE
+Link To Our Created GitHub Repo: https://github.com/Chikire/DSCI_521_Lab3_GRP14
+
+Link To The Presentation: https://chikire.github.io/DSCI_521_Lab3_GRP14/
 
 #### (Challenging) Question 11
 
