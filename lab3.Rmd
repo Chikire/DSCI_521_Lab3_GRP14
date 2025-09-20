@@ -356,6 +356,6 @@ The cell below will generate a zip file for you to submit. **Please save
 before exporting!**
 
 ```{r}
-# Save your notebook first, then run this cell to export your submission.
+#Save your notebook first, then run this cell to export your submission.
 ottr::export("lab3.Rmd", pdf = TRUE)
 ```
